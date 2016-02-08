@@ -1,2 +1,3 @@
 # hello-world
-test repo
+(Test repo)
+This is now a finished README. Honest.
